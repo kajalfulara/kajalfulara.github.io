@@ -11,7 +11,7 @@ const ContactCTA = () => {
         className="button-hover rounded-full px-6 py-2"
         asChild
       >
-        <a href="https://www.linkedin.com/in/kajal-f" target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
+        <a href="https://www.linkedin.com/in/kajal-f/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
       </Button>
     </div>
   );

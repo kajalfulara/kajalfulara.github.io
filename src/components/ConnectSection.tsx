@@ -3,7 +3,7 @@ import { GraduationCap, Linkedin, Mail, Phone, FileText } from 'lucide-react';
 
 const EMAIL = 'kajal.fulara19@gmail.com';
 const PHONE = '+91 7838728912';
-const LINKEDIN_URL = 'https://linkedin.com/in/kajal-fulara';
+const LINKEDIN_URL = 'https://www.linkedin.com/in/kajal-f/';
 const GOOGLE_SCHOLAR_URL = 'https://scholar.google.com/citations?hl=en&user=bPq2beMAAAAJ';
 const RESUME_URL = 'https://drive.google.com/file/d/1TD-lXjK8c7MbJz_dHCdVu_ecqZ-1Wetq/view?usp=drive_link';
 

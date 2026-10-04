@@ -42,9 +42,16 @@ const Hero = () => {
         </a>
       </div>
 
-      <h1 className="animate font-semibold text-2xl md:text-3xl text-black dark:text-white">
-        Hi, I'm Kajal.
-      </h1>
+      <div className="animate flex items-center gap-4">
+        <img
+          src="/kajal-profile.png"
+          alt="Kajal Fulara"
+          className="h-16 w-16 sm:h-20 sm:w-20 shrink-0 rounded-full object-cover border-2 border-white dark:border-neutral-900 ring-2 ring-emerald-500/30 shadow-md"
+        />
+        <h1 className="font-semibold text-2xl md:text-3xl text-black dark:text-white">
+          Hi, I'm Kajal.
+        </h1>
+      </div>
 
       {/* Recruiter Callout Banner */}
       <div className="animate p-3.5 rounded-lg border border-emerald-500/25 bg-emerald-500/5 dark:bg-emerald-500/10 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs md:text-sm">
