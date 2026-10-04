@@ -13,6 +13,52 @@ export interface Post {
 
 export const posts: Post[] = [
   {
+    slug: "qualitative-hr-analytics-employee-feedback",
+    title: "From Field Interviews to People Insights: A Qualitative HR Analytics Framework",
+    subtitle: "A practical, privacy-conscious way to turn employee feedback into evidence that HR teams can act on.",
+    description: "How structured interviews, careful coding, and responsible use of HR metrics can help analysts understand the people behind the numbers.",
+    date: "Oct 05, 2026",
+    readingTime: "6 min read",
+    link: "/blog/qualitative-hr-analytics-employee-feedback",
+    tags: ["HR Analytics", "Qualitative Research", "Employee Listening", "Research Methods"],
+    external: false,
+    content: `
+### Good people analysis starts with a useful question
+
+Headcount, hiring time, absence, and retention data can show where a people issue may be occurring. They rarely explain what an employee experienced or why a process felt difficult. Structured interviews and other qualitative methods can add that context, provided they are collected and interpreted with care.
+
+My research experience includes structured interviews across multiple study sites with more than 100 participants, 250+ developmental assessments, and research data work using SPSS and REDCap. I have also co-authored work through the SMRUTHI INDIA research program, including a published multimodal health education study. These experiences have taught me to value clear protocols, reliable records, and communication that people can understand. Those habits transfer well to people analysis, while HR findings still need to be grounded in HR data and employee context.
+
+### A five-step framework for qualitative HR analysis
+
+#### 1. Start with the decision
+
+Define what the team needs to understand before scheduling interviews. For example: “Which part of the first month is creating avoidable uncertainty for new hires?” is more useful than “How is onboarding going?” A focused question keeps interviews relevant and makes findings easier to turn into an operational change.
+
+#### 2. Collect comparable, open feedback
+
+Use a short interview guide so people are asked comparable questions, while leaving room for follow-up. Explain the purpose, how notes will be used, and what confidentiality can and cannot be promised. Invite perspectives from different teams, tenure groups, and work experiences; voluntary feedback alone may overrepresent people with unusually strong views.
+
+#### 3. Code themes consistently
+
+Read the notes more than once, create a small codebook with clear definitions, and apply it consistently. Keep a short audit trail for why a passage fits a theme. When possible, ask another analyst to review a sample of the coding and discuss differences. This makes interpretation more transparent than relying on memory or a few vivid comments.
+
+#### 4. Compare themes with appropriate HR measures
+
+Use aggregate operational data to add context, not to overrule what employees said. If several new hires mention unclear ownership, an analyst might compare the theme with onboarding query volumes or time-to-completion by process step. Only use measures that are defined consistently and appropriate for the question. Do not attach interview comments to identifiable HR records unless there is a clear, consented, and necessary reason.
+
+#### 5. Recommend a small change and check its effect
+
+Summarize each theme with its evidence, the groups represented, limitations, and a proposed action. A hypothetical onboarding finding might lead to a clearer first-week checklist or a manager check-in at a specific milestone. Pilot the change, select a simple measure in advance, and ask employees whether the experience improved. A small qualitative sample can guide a test; it cannot establish that every employee has the same experience or prove causation on its own.
+
+### Research discipline, applied to people questions
+
+Qualitative analysis is most useful when it is systematic and humane at the same time: ask a clear question, preserve context, document decisions, protect confidentiality, and state what the evidence cannot tell us. My research background and current HR operations experience have shaped my interest in connecting employee experience with careful, practical analysis.
+
+My published research includes a co-authored study on a multimodal dementia-prevention education module for at-risk rural Indian elders ([Frontiers in Dementia, 2026](https://www.frontiersin.org/journals/dementia/articles/10.3389/frdem.2026.1914082/abstract)) and work as part of the SMRUTHI INDIA collaborator group on a trial protocol ([BMJ Open, 2025](https://bmjopen.bmj.com/content/15/6/e084050)). The topics differ from workplace analytics, but the shared discipline is to make evidence understandable, relevant to its context, and useful for better decisions.
+`
+  },
+  {
     slug: "frictionless-employee-onboarding-architecture",
     title: "Designing a Frictionless Onboarding Architecture: Retaining Talent from Day One",
     subtitle: "How structured documentation, automated checklists, and psychological safety transform new-hire engagement.",

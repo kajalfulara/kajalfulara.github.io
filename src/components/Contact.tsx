@@ -22,7 +22,7 @@ const Contact = () => {
         >
           <h2 className="text-4xl font-bold mb-6 text-gradient">Get in Touch</h2>
           <p className="text-gray-400 text-lg mb-12 max-w-2xl mx-auto">
-            Open to HR Operations, Talent Strategy, and People Leadership opportunities
+            Open to HR Operations, People Operations, Talent Acquisition, HR Analyst, and Qualitative Analyst roles
           </p>
 
           <Card className="glass-card border-none">

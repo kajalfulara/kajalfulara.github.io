@@ -61,7 +61,7 @@ const Hero = () => {
             <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
           </span>
           <span className="text-neutral-800 dark:text-neutral-200 leading-snug">
-            <strong>Currently looking for new roles:</strong> Open to opportunities in <strong>HR Operations</strong>, <strong>People Operations</strong>, and <strong>Talent Acquisition</strong> (Delhi NCR / Hybrid / Remote).
+            <strong>Currently looking for new roles:</strong> <strong>HR Operations</strong>, <strong>People Operations</strong>, <strong>Talent Acquisition</strong>, <strong>HR Analyst</strong>, and <strong>Qualitative Analyst</strong>.
           </span>
         </div>
         <Link

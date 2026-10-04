@@ -53,6 +53,16 @@ const skillCategories = [
       "Multidisciplinary Research Coordination",
       "Data Integrity & Confidentiality"
     ]
+  },
+  {
+    name: "Qualitative Research & Measurement",
+    skills: [
+      "Structured Interviews (100+ Participants)",
+      "Participant Coordination & Follow-up",
+      "Behavioral & Developmental Assessment",
+      "Research Documentation",
+      "Protocol Compliance"
+    ]
   }
 ];
 

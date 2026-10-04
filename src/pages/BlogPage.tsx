@@ -29,7 +29,7 @@ const BlogPage = () => {
               Articles & Perspectives
             </h1>
             <p className="text-sm text-neutral-600 dark:text-neutral-400 leading-relaxed">
-              Thoughts on HR operations, high-retention onboarding, advanced Excel people analytics, behavioral psychology, and structured talent acquisition.
+              Thoughts on HR operations, people analytics, qualitative research, behavioral psychology, and structured talent acquisition.
             </p>
           </div>
 

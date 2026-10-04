@@ -42,7 +42,7 @@ const ConnectSection = () => {
 
       <article>
         <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed text-sm md:text-base">
-          I am <strong>actively open to full-time opportunities</strong> in HR Operations, People Operations, and Talent Strategy. If you're hiring, looking to collaborate on research, or simply want to chat, feel free to reach out directly.
+          I am <strong>actively open to full-time opportunities</strong> in HR Operations, People Operations, Talent Acquisition, HR Analyst, and Qualitative Analyst roles. If you're hiring, looking to collaborate on research, or simply want to chat, feel free to reach out directly.
         </p>
       </article>
 

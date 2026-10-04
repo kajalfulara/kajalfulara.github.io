@@ -1,5 +1,6 @@
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import ResearchSection from '@/components/ResearchSection';
 import BlogSection from '@/components/BlogSection';
 import WorkSection from '@/components/WorkSection';
 import ProjectsSection from '@/components/ProjectsSection';
@@ -18,6 +19,7 @@ const Index = () => {
       <main className="flex-grow">
         <div className="mx-auto max-w-screen-sm px-5 py-6 space-y-16">
           <Hero />
+          <ResearchSection />
           <BlogSection limit={3} showLink={true} />
           <WorkSection showLink={true} />
           <ProjectsSection limit={3} showLink={true} />
